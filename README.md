@@ -1,6 +1,6 @@
 # 📊 Final Data Science Project
 
-This repository contains the final project for a Data Science course, originally developed in a Jupyter Notebook environment using R. This project analyzes whether player experience can predict monthly playtime on a Minecraft research server used by UBC's PLAI lab to train embodied AI agents. The project involves a data-driven investigation, applying key techniques such as data wrangling, visualization, and modeling.
+This repository contains the final project for a Data Science course, originally developed in a Jupyter Notebook environment using R. This project analyzes whether player experience can predict monthly playtime on a Minecraft research server used by UBC's PLAI lab to train embodied AI agents. The project involves a data-driven investigation, applying key techniques such as data wrangling, KNN regression modeling and visualization.
 
 
 ## 📁 Contents
