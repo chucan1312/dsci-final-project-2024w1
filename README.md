@@ -39,6 +39,6 @@ install.packages(c(
 ))
 
 
-## ## 👥 Authors
+## 👥 Authors
 
 This project was completed by a student group of 3 as part of the DSCI 100 course at the University of British Columbia.
