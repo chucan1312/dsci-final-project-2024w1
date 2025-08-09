@@ -37,7 +37,7 @@ install.packages(c(
     "kknn",
     "repr"
 ))
-
+```
 
 ## 👥 Authors
 
